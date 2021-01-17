@@ -1,0 +1,3 @@
+Use AdventureWorks2019
+Select*from HumanResources.Employee
+Go
